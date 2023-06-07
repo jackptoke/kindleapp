@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980323616271",
+    "project_id": "kotlin-pro-journey",
+    "storage_bucket": "kotlin-pro-journey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980323616271:android:feae0cbaa1923258ef857a",
+        "android_client_info": {
+          "package_name": "dev.agitek.kindleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980323616271-csblu4okslvu1rm8isnd32qlqcu8i62v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYD3Z3wGLZqL5LgrR5Ne8glnr6z4NVlzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980323616271-csblu4okslvu1rm8isnd32qlqcu8i62v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
